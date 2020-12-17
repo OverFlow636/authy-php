@@ -1,5 +1,5 @@
 {
-    "name": "authy/php",
+    "name": "overflow636/authy-php",
     "type": "library",
     "description": "PHP client for Authy",
     "keywords": [
